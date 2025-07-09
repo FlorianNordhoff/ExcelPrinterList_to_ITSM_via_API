@@ -1,7 +1,7 @@
 import pandas as pd
 import requests
 
-# Konfiguration
+# URLs
 EXCEL_PATH = "rolloutliste.xlsx"
 TOKEN_URL = "https://x.x.com/auth/authentication-endpoint/authenticate/token?TENANTID=x"
 LOGIN_CREDENTIALS = {"login": "x", "password": "x"}
